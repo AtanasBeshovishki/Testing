@@ -1,0 +1,6 @@
+C:\Users\Atanas\Downloads\SoftUni\ProgrammingFundamentals\TwoDates\TwoDates\bin\Debug\TwoDates.exe.config
+C:\Users\Atanas\Downloads\SoftUni\ProgrammingFundamentals\TwoDates\TwoDates\obj\Debug\TwoDates.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Downloads\SoftUni\ProgrammingFundamentals\TwoDates\TwoDates\bin\Debug\TwoDates.exe
+C:\Users\Atanas\Downloads\SoftUni\ProgrammingFundamentals\TwoDates\TwoDates\bin\Debug\TwoDates.pdb
+C:\Users\Atanas\Downloads\SoftUni\ProgrammingFundamentals\TwoDates\TwoDates\obj\Debug\TwoDates.exe
+C:\Users\Atanas\Downloads\SoftUni\ProgrammingFundamentals\TwoDates\TwoDates\obj\Debug\TwoDates.pdb

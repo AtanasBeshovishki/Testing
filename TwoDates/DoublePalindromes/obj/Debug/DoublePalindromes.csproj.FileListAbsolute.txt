@@ -1,0 +1,6 @@
+C:\Users\Atanas\Downloads\SoftUni\ProgrammingFundamentals\TwoDates\DoublePalindromes\bin\Debug\DoublePalindromes.exe.config
+C:\Users\Atanas\Downloads\SoftUni\ProgrammingFundamentals\TwoDates\DoublePalindromes\bin\Debug\DoublePalindromes.exe
+C:\Users\Atanas\Downloads\SoftUni\ProgrammingFundamentals\TwoDates\DoublePalindromes\bin\Debug\DoublePalindromes.pdb
+C:\Users\Atanas\Downloads\SoftUni\ProgrammingFundamentals\TwoDates\DoublePalindromes\obj\Debug\DoublePalindromes.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Downloads\SoftUni\ProgrammingFundamentals\TwoDates\DoublePalindromes\obj\Debug\DoublePalindromes.exe
+C:\Users\Atanas\Downloads\SoftUni\ProgrammingFundamentals\TwoDates\DoublePalindromes\obj\Debug\DoublePalindromes.pdb
